@@ -11,7 +11,7 @@
         android:id="@+id/previousCalculationView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView"
+        android:text=""
         android:layout_marginEnd="10dp"
         android:textColor="@color/white"
         android:textSize="25sp"
